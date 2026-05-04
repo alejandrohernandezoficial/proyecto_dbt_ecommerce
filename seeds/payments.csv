@@ -1,0 +1,4 @@
+payment_id,order_id,payment_method
+1,1,credit_card
+2,2,paypal
+3,3,credit_card
